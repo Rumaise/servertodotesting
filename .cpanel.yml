@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/blueskyj/public_html/
-    - /bin/cp App.js $DEPLOYPATH
+    - /bin/cp  $DEPLOYPATH
